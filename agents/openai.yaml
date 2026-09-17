@@ -1,0 +1,4 @@
+interface:
+  display_name: "Community Platform Boundaries"
+  short_description: "Design clear Java community-service boundaries"
+  default_prompt: "Use $jc-club-skill to plan a new capability for this Spring Cloud community platform."
